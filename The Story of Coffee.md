@@ -5,7 +5,7 @@ tags:
 slug: plants-of-gods-coffee-story
 publish date: 2023-11-03
 ---
-With the [Story of Coffee](https://tim.blog/2023/10/13/story-of-coffee/), Tim Ferris features an amazing guest episode from Dr. Mark Plotkin about The Story of Coffee. Mark has his own podcast [Plants of the Gods](https://markplotkin.com/podcast/) but released this episode first on Tim’s stream.
+With the [Story of Coffee](https://tim.blog/2023/10/13/story-of-coffee/), Tim Ferriss features an amazing guest episode from Dr. Mark Plotkin about The Story of Coffee. Mark has his own podcast [Plants of the Gods](https://markplotkin.com/podcast/) but released this episode first on Tim’s stream.
 
 Like many people, I do love coffee but I was not aware of the exciting and impactful story of how coffee was introduced to our societies. There’s an argument to be made that coffee was a relevant lubricant for many scientific and cultural revolutions. When it was introduced, coffee was an alternative to beer. It brought people together, left them energized, and unlike beer, didn't numb their senses. This influence sparked a lot of "thinking clubs" in coffee houses all over the world that led to scientific breakthroughs and new organizations.
 
