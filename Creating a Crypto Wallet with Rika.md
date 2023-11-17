@@ -12,21 +12,3 @@ We created a new self-custody wallet for me. Instead of Metamask, Rika recommend
 While Bitcoin and Ethereum still dominate the scene, their technical constraints result in high transaction fees (also known as gas fees in Ethereum). For Ethereum, this led to the rise of many Layer 2 blockchain networks like Aurora, Polygon, or Optimism, which implement sophisticated systems to reduce costs. Rika highlighted Arbitrum, a platform receiving a lot of support from experts in the field.
 
 It was great to reconnect with [Rika](https://twitter.com/RikaGoldberg) and glimpse into the crypto space. Check out her writing in her [newsletter archive](https://www.newsletter.rikagoldberg.xyz) , her [digital garden](https://rikagoldberg.xyz/), or her most recent article on [staking ETH](https://paragraph.xyz/@sharingiscaring/staking-eth-a-lay-of-the-land).
-
-
-
-
-
-
-
-Created a Wallet in Brave
-Recovery phrase needs to be kept safe
-Self custody aspect
-
-Aurora a 2nd layer blockchains
-Polygon, Optimism
-
-Arbitrom
-ARB
-
-Wallet Connect
